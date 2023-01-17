@@ -1,0 +1,8 @@
+build/
+config/
+node_modules/
+.babelrc
+.editorconfig
+.gitignore
+package-lock.json
+pnpm-lock.yaml
